@@ -44,7 +44,7 @@ Depends on the feedback, but probably in person. Text communication gets misinte
 ### How do I like to receive feedback?
 Again, it depends, but usually in person - I have a tendency to overanalyse text.
 
-#### What do I want from a code review?
+### What do I want from a code review?
 I like code reviews. They're one of the main ways I find myself improving as a developer.<br  />
 If you're code reviewing my work, please:
 * Leave constructive criticism - if there's a better way of doing something, I want to know! Especially if it a nice ES6 solution I've overlooked.
