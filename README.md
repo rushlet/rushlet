@@ -21,7 +21,7 @@ Even if you 'only have a quick question', I'd prefer it if you **Slack me before
 I get that you might need an answer asap but I might be just about to crack this coding problem, and it can be really hard to get my head back into that space.
 
 
-**If I donâ€™t respond**, try: Slacking me again - I probably got distracted and forgot to reply. Or, catch me in the kitchen.
+**If I don't respond**, try: Slacking me again - I probably got distracted and forgot to reply. Or, catch me in the kitchen.
 
 ### I'd love to help you with...
 Anything, really.
@@ -54,7 +54,7 @@ If you're code reviewing my work, please:
 ### One of my goals for the coming year:
 * Present at a conference (eek!)
 
-### Topics Iâ€™m always happy to talk about:
+### Topics I'm always happy to talk about:
 * Music. Any recommendations? What gigs have you been to recently?
 * TV shows - from the ridiculously brilliant to the brilliantly ridiculous. I especially appreciate _those_ cop dramas (_Castle, Lucifer, The Mentalist,_ I'm looking at you)
 * Invitations & recommendations of things to see and do in London - I'm still really new here!
