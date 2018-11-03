@@ -32,7 +32,7 @@ Anything, really.
 * If you want to talk about usage data & istats, I'm your person (it's probably the detective thing again).
 
 ### What makes me grumpy?
-* People interrupting my conversations with others to 'ask a quick question' - what you have to say is no more or less important than the person I am talking to. Slack me, wait, or come back when I am free.
+* People interrupting my conversations to 'ask a quick question' - what you have to say is no more or less important than the person I am talking to. Slack me, wait, or come back when I am free.
 * Wet shoes
 * Being tired and hungry (I may not always realise this is the cause of my grumpiness)
 * Tiny pockets in women's jeans
@@ -63,7 +63,7 @@ If you're code reviewing my work, please:
 
 ### Other things you might want to know:
 * I bruise easily & I'm clumsy, you probably shouldn't be concerned if I look like I've been beaten up.
-* My music taste is pretty eclectic, I can bounce from [ukranian folk](https://open.spotify.com/track/52Wl3PQGfyvMJm5JQu0acD?si=zEoFqkZ3Qqe2IRLWeFQC1Q) to [90s indie rock](https://open.spotify.com/track/1OU3fzC6uWKpqgZalfUSx8?si=vCywFj1VT9yR9kCjrXYxAw) to [Brazilian body percussian](https://open.spotify.com/track/4bndkI1TTh7itdsyixtDoD?si=CvQIUFxXQImKE73oJsBhOw) to [acoustic covers of pop songs](https://open.spotify.com/track/5CjOsESIfgyByBGKL7MCWU?si=S0_UprYXQHmEm2sU4FWU-w) before breakfast.
+* My music taste is pretty eclectic, I can bounce from [Ukranian folk](https://open.spotify.com/track/52Wl3PQGfyvMJm5JQu0acD?si=zEoFqkZ3Qqe2IRLWeFQC1Q) to [90s indie rock](https://open.spotify.com/track/1OU3fzC6uWKpqgZalfUSx8?si=vCywFj1VT9yR9kCjrXYxAw) to [Brazilian body percussian](https://open.spotify.com/track/4bndkI1TTh7itdsyixtDoD?si=CvQIUFxXQImKE73oJsBhOw) to [acoustic covers of pop songs](https://open.spotify.com/track/5CjOsESIfgyByBGKL7MCWU?si=S0_UprYXQHmEm2sU4FWU-w) before breakfast.
 * My face is sometimes more expressive than I realise, it can get me into trouble.
 * I hit a drum fairly well in a [Brighton based samba band](https://www.youtube.com/watch?v=zRHbofgZmq0), sometimes this involves wandering the streets in fantastic costumes and perplexing passers by.
 * On a related note, I love any excuse for fancy dress.
