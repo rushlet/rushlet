@@ -11,7 +11,7 @@ I'm a morning person, for the most part.<br  />
 This is actually mostly to avoid busyness on the roads/darkness when I'm cycling or manic overcrowding public transport. <br />
 Outside of these times if you ask me a question on Slack, I will try and respond in a vaguely helpful way.<br />
 
-### Whatâ€™s the best way to communicate with me?
+### What's the best way to communicate with me?
 *Slack > in person > email > text (the old fashioned sort if you want me to reply fairly quickly because WhatsApp doesn't play nicely with my phone)*
 
 Generally, **Slack is best**. Don't be offended if I don't reply straight away - I'm probably in the middle of something.
